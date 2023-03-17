@@ -1,9 +1,9 @@
 # NOTE
 A simple test for the paper [*A Graph Neural Network for superpixel image classification*](https://iopscience.iop.org/article/10.1088/1742-6596/1871/1/012071/pdf). I modified the code for my own study purpose.
 
-I deleted some files.
+Deleted some files.
 
-I add the environment files for a better reproducibility.
+Add the environment files for a better reproducibility.
 
 The origin code can be found in backup folder.
 
